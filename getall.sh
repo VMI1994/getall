@@ -1,15 +1,17 @@
 #!/bin/bash
 
+cd ~
 git clone https://github.com/VMI1994/linux-setup.git
-cd
+cd ~
 git clone https://github.com/VMI1994/Docker-Portainer.git
-cd
+cd ~
 git clone https://github.com/VMI1994/Nodejs.git
-cd
+cd ~
 git clone https://github.com/VMI1994/magic-mirror-setup.git
-cd
+cd ~
 git clone https://github.com/VMI1994/xrdpubuntu.git
 clear
+cd ~
 ls -lha
 exit
 
